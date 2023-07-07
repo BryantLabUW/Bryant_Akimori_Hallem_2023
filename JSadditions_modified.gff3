@@ -1,0 +1,125 @@
+SSTP_scaffold0000001	JonathanStoltzfus	gene	190872	193180	.	+	.	ID=gene:Ss_mcm_4;Name=Ss_mcm_4;OtherName-SSTP_0000079600_split;biotype=protein_coding;description=DNA helicase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0DU82
+SSTP_scaffold0000001	JonathanStoltzfus	gene	193490	194737	.	+	.	ID=gene:Ss_tgh_4;Name=Ss_tgh_4;OtherName=SSTP_0000079600_split;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	432659	433603	.	+	.	ID=gene:Ss_srg_36;Name=Ss_srg_36;OtherName=SSTP_0000088200_split;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	434504	436054	.	+	.	ID=gene:Ss_dnajc3;Name=Ss_dnajc3;OtherName=SSTP_0000088200_split;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	1117346	1118466	.	+	.	ID=gene:Ss_str_14;Name=Ss_str_14;OtherName=SSTP_0000113900_modified;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	1735193	1736724	.	-	.	ID=gene:Ss_smad_8;Name=Ss_smad_8;OtherName=SSTP_0000137600_modified;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	1875621	1879629	.	-	.	ID=gene:Ss_hecw_1;Name=Ss_hecw_1;OtherName=SSTP_0000142500_modified;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	3955354	3956372	.	+	.	ID=gene:Ss_srg_42;Name=Ss_srg_42;OtherName=SSTP_0000209200_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0DXX8
+SSTP_scaffold0000001	JonathanStoltzfus	gene	3984816	3985641	.	+	.	ID=gene:Ss_srg_30;Name=Ss_srg_30;OtherName=SSTP_0000210100_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0DXY7
+SSTP_scaffold0000001	JonathanStoltzfus	gene	4004141	4005037	.	+	.	ID=gene:Ss_srg_21;Name=Ss_srg_21;OtherName=SSTP_0000211000_modified;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	4033190	4035132	.	-	.	ID=gene:Ss_sel_10;Name=Ss_sel_10;OtherName=SSTP_0000212000_modified;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	4211179	4215486	.	-	.	ID=gene:Ss_lev_9;Name=Ss_lev_9;OtherName=SSTP_0000218000_modified;biotype=protein_coding
+SSTP_scaffold0000001	JonathanStoltzfus	gene	4673729	4675848	.	+	.	ID=gene:Ss_acox_3;Name=Ss_acox_3;OtherName=SSTP_0000233800_modified;biotype=protein_coding;description=Acyl-coenzyme A oxidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0DYM1
+SSTP_scaffold0000002	JonathanStoltzfus	gene	111258	113406	.	+	.	ID=gene:Ss_dpy_19;Name=Ss_dpy_19;OtherName=SSTP_0000715000_split;biotype=protein_coding
+SSTP_scaffold0000002	JonathanStoltzfus	gene	117490	119408	.	+	.	ID=gene:Ss_daf_4;Name=Ss_daf_4;OtherName=SSTP_0000715000_split;biotype=protein_coding
+SSTP_scaffold0000002	JonathanStoltzfus	gene	417056	419137	.	-	.	ID=gene:Ss_ddx_35;Name=Ss_ddx_35;OtherName=SSTP_0000726900_modified;biotype=protein_coding
+SSTP_scaffold0000002	JonathanStoltzfus	gene	1136416	1137973	.	-	.	ID=gene:Ss_ecr_1;Name=Ss_ecr_1;OtherName=SSTP_0000751800_modified;biotype=protein_coding
+SSTP_scaffold0000002	JonathanStoltzfus	gene	1656810	1659099	.	+	.	ID=gene:Ss_smad_4;Name=Ss_smad_4;OtherName=SSTP_0000769000_modified;biotype=protein_coding;description=Mothers against decapentaplegic homolog;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0EDX7
+SSTP_contig0000001	JonathanStoltzfus	gene	1342042	1346583	.	-	.	ID=gene:Ss_daf_2;Name=Ss_daf_2;OtherName=SSTP_0000592000_modified;biotype=protein_coding;description=Insulin-like receptor protein tyrosine kinase isoform B;description_source=UniProtKB/TrEMBL;description_source_acc=L7T2G7;locus=daf-2
+SSTP_contig0000001	JonathanStoltzfus	gene	1469074	1474663	.	+	.	ID=gene:Ss_dcr_1;Name=Ss_dcr_1;OtherName=SSTP_0000596200_modified;biotype=protein_coding
+SSTP_contig0000001	JonathanStoltzfus	gene	1529811	1531189	.	+	.	ID=gene:Ss_smad_3;Name=Ss_smad_3;OtherName=SSTP_0000598700_modified;biotype=protein_coding;description=Mothers against decapentaplegic homolog;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E903
+SSTP_contig0000001	JonathanStoltzfus	gene	1532689	1533355	.	+	.	ID=gene:Ss_bra_1;Name=Ss_bra_1;OtherName=SSTP_0000598900_modified;biotype=protein_coding
+SSTP_contig0000001	JonathanStoltzfus	gene	1631155	1634070	.	+	.	ID=gene:Ss_gsa_1;Name=Ss_gsa_1;OtherName=SSTP_0000602300_modified;biotype=protein_coding
+SSTP_contig0000001	JonathanStoltzfus	gene	1945769	1949844	.	+	.	ID=gene:Ss_ncr_1;Name=Ss_ncr_1;OtherName=SSTP_0000613800_modified;biotype=protein_coding
+SSTP_contig0000001	JonathanStoltzfus	gene	2016097	2018834	.	+	.	ID=gene:Ss_acs_20;Name=Ss_acs_20;OtherName=SSTP_0000615900_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	315996	316949	.	+	.	ID=gene:Ss_srg_35;Name=Ss_srg_35;OtherName=SSTP_0000364900_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	509564	510602	.	+	.	ID=gene:Ss_srg_25;Name=Ss_srg_25;OtherName=SSTP_0000370900_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	741327	742334	.	+	.	ID=gene:Ss_srg_50;Name=Ss_srg_50;OtherName=SSTP_0000379400_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	1141130	1143833	.	+	.	ID=gene:Ss_lin_35;Name=Ss_lin_35;OtherName=SSTP_0000393900_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	1252225	1253567	.	-	.	ID=gene:Ss_pum_1;Name=Ss_pum_1;OtherName=SSTP_0000397300_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	1475411	1478632	.	+	.	ID=gene:Ss_mog_1;Name=Ss_mog_1;OtherName=SSTP_0000405300_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	1770542	1772104	.	-	.	ID=gene:Ss_udpgt_1;Name=Ss_udpgt_1;OtherName=SSTP_0000415100_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	1772389	1773637	.	-	.	ID=gene:Ss_set_23;Name=Ss_set_23;OtherName=SSTP_0000415100_modified;biotype=protein_coding
+SSTP_contig0000002	JonathanStoltzfus	gene	1787337	1788509	.	-	.	ID=gene:Ss_gpa_2;Name=Ss_gpa_2;OtherName=SSTP_0000415600_modified;biotype=protein_coding;description=G protein alpha subunit 2;description_source=UniProtKB/TrEMBL;description_source_acc=Q968S6;locus=gpa-2
+SSTP_contig0000002	JonathanStoltzfus	gene	1846346	1849841	.	-	.	ID=gene:Ss_ist_2;Name=Ss_ist_2;OtherName=SSTP_0000417400_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	561416	562366	.	-	.	ID=gene:Ss_srg_48;Name=Ss_srg_48;OtherName=SSTP_0001172200_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0EQJ3
+SSTP_contig0000003	JonathanStoltzfus	gene	564553	573532	.	-	.	ID=gene:Ss_daf_12;Name=Ss_daf_12;OtherName=SSTP_0001172300_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	826646	827617	.	-	.	ID=gene:Ss_lip3_13;Name=Ss_lip3_13;OtherName=SSTP_0001181700_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	839376	840362	.	-	.	ID=gene:Ss_srg_12;Name=Ss_srg_12;OtherName=SSTP_0001182400_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	848646	851714	.	-	.	ID=gene:Ss_icl_1;Name=Ss_icl_1;OtherName=SSTP_0001182800_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	856427	868399	.	-	.	ID=gene:Ss_trr_1;Name=Ss_trr_1;OtherName=SSTP_0001183100_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	892493	894553	.	-	.	ID=gene:Ss_acs_1;Name=Ss_acs_1;OtherName=SSTP_0001184100_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	1079882	1080847	.	+	.	ID=gene:Ss_srg_53;Name=Ss_srg_53;SSTP_0001190900_modified;biotype=protein_coding
+SSTP_contig0000003	JonathanStoltzfus	gene	1603411	1626473	.	+	.	ID=gene:Ss_daf_16;Name=Ss_daf_16;OtherName=SSTP_0001206800_modified;OtherName=Ss-fktf-1;biotype=protein_coding;description=Forkhead transcription factor 1 isoform a;description_source=UniProtKB/TrEMBL;description_source_acc=Q6WKW2;locus=fktf-1
+SSTP_scaffold0000003	JonathanStoltzfus	gene	39713	39901	.	-	.	ID=gene:Ss_gpc_1;Name=Ss_gpc_1;OtherName=SSTP_0000886400_modified;biotype=protein_coding
+SSTP_scaffold0000003	JonathanStoltzfus	gene	127611	128121	.	+	.	ID=gene:Ss_lbp_2;Name=Ss_lbp_2;OtherName=SSTP_0000890300_modified;biotype=protein_coding
+SSTP_scaffold0000003	JonathanStoltzfus	gene	795984	800220	.	+	.	ID=gene:Ss_gck_2;Name=Ss_gck_2;OtherName=SSTP_0000913500_modified;biotype=protein_coding
+SSTP_scaffold0000003	JonathanStoltzfus	gene	1098819	1099862	.	+	.	ID=gene:Ss_sra_2;Name=Ss_sra_2;OtherName=SSTP_0000924650_modified;biotype=protein_coding
+SSTP_scaffold0000003	JonathanStoltzfus	gene	1149095	1152362	.	+	.	ID=gene:Ss_drsh_1;Name=Ss_drsh_1;OtherName=SSTP_0000926600_modified;biotype=protein_coding
+SSTP_contig0000004	JonathanStoltzfus	gene	94732	95103	.	-	.	ID=gene:Ss_mif_1;Name=Ss_mif_1;OtherName=SSTP_0001233200_modified;biotype=protein_coding
+SSTP_contig0000004	JonathanStoltzfus	gene	104881	108149	.	-	.	ID=gene:Ss_pten_2;Name=Ss_pten_2;OtherName=SSTP_0001233200_modified;biotype=protein_coding
+SSTP_contig0000004	JonathanStoltzfus	gene	522513	523607	.	+	.	ID=gene:Ss_lip3_8;Name=Ss_lip3_8;OtherName=SSTP_0001240300_modified;biotype=protein_coding
+SSTP_contig0000006	JonathanStoltzfus	gene	739670	741263	.	+	.	ID=gene:Ss_gpa_12;Name=Ss_gpa_12;OtherName=SSTP_0000060000_modified;biotype=protein_coding
+SSTP_contig0000007	JonathanStoltzfus	gene	176204	179584	.	+	.	ID=gene:Ss_fox_1;Name=Ss_fox_1;OtherName=SSTP_0000872400_modified;biotype=protein_coding
+SSTP_contig0000008	JonathanStoltzfus	gene	30887	34029	.	-	.	ID=gene:Ss_gcy_2;Name=Ss_gcy_2;OtherName=SSTP_0000846800_modified;biotype=protein_coding;description=Guanylate cyclase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0EG58
+SSTP_contig0000008	JonathanStoltzfus	gene	409448	411044	.	+	.	ID=gene:Ss_cyp14a1;Name=Ss_cyp14a1;OtherName=SSTP_0000856000_modified;biotype=protein_coding
+SSTP_scaffold0000004	JonathanStoltzfus	gene	179947	180234	.	-	.	ID=gene:Ss_ilp_5;Name=Ss_ilp_5;OtherName=SSTP_0000310300_split;biotype=protein_coding
+SSTP_scaffold0000004	JonathanStoltzfus	gene	180538	180825	.	-	.	ID=gene:Ss_ilp_2;Name=Ss_ilp_2;OtherName=SSTP_0000310300_split;biotype=protein_coding
+SSTP_scaffold0000004	JonathanStoltzfus	gene	181117	182955	.	-	.	ID=gene:Ss_lgc_36;Name=Ss_lgc_36;OtherName=SSTP_0000310300_split;biotype=protein_coding
+SSTP_contig0000010	JonathanStoltzfus	gene	31986	32957	.	-	.	ID=gene:Ss_srg_23;Name=Ss_srg_23;OtherName=SSTP_0000668300_modified;biotype=protein_coding
+SSTP_contig0000012	JonathanStoltzfus	gene	391222	392187	.	+	.	ID=gene:Ss_lip3_4;Name=Ss_lip3_4;OtherName=SSTP_0001126900_modified;biotype=protein_coding
+SSTP_scaffold0000005	JonathanStoltzfus	gene	335924	336460	.	-	.	ID=gene:SSTP_0000017010;Name=SSTP_0000017010;OtherName=SSTP_0000017000_split;biotype=protein_coding
+SSTP_scaffold0000005	JonathanStoltzfus	gene	336988	337167	.	-	.	ID=gene:SSTP_0000017020;Name=SSTP_0000017020;OtherName=SSTP_0000017000_split;biotype=protein_coding
+SSTP_scaffold0000005	JonathanStoltzfus	gene	337476	337922	.	-	.	ID=gene:SSTP_0000017030;Name=SSTP_0000017030;OtherName=SSTP_0000017000_split;biotype=protein_coding
+SSTP_scaffold0000006	JonathanStoltzfus	gene	80014	81191	.	-	.	ID=gene:Ss_act_3;Name=Ss_act_3;OtherName=SSTP_0001106300_split;biotype=protein_coding
+SSTP_scaffold0000006	JonathanStoltzfus	gene	83214	83964	.	-	.	ID=gene:Ss_hlh_4;Name=Ss_hlh_4;OtherName=SSTP_0001106300_split;biotype=protein_coding
+SSTP_scaffold0000006	JonathanStoltzfus	gene	207620	208567	.	+	.	ID=gene:Ss_srg_15;Name=Ss_srg_15;OtherName=SSTP_0001111100_modified;biotype=protein_coding
+SSTP_scaffold0000006	JonathanStoltzfus	gene	242207	246042	.	+	.	ID=gene:Ss_akt_1;Name=Ss_akt_1;OtherName=SSTP_0001112300_modified;biotype=protein_coding;description=Non-specific serine/threonine protein kinase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0ENT6
+SSTP_scaffold0000006	JonathanStoltzfus	gene	285358	287061	.	+	.	ID=gene:Ss_cyp3a23_sic;Name=Ss_cyp3a23_sic;OtherName=SSTP_0001113800_modified;biotype=protein_coding
+SSTP_scaffold0000006	JonathanStoltzfus	gene	295041	296602	.	+	.	ID=gene:Ss_cyp3a27_sic;Name=Ss_cyp3a27_sic;OtherName=SSTP_0001114200_modified;biotype=protein_coding
+SSTP_contig0000014	JonathanStoltzfus	gene	147611	152280	.	-	.	ID=gene:Ss_tra_1;Name=Ss_tra_1;OtherName=SSTP_0000953400_modified;biotype=protein_coding
+SSTP_contig0000014	JonathanStoltzfus	gene	250052	251056	.	+	.	ID=gene:Ss_srg_3;Name=Ss_srg_3;OtherName=SSTP_0000956800_modified;biotype=protein_coding
+SSTP_contig0000015	JonathanStoltzfus	gene	33933	36772	.	+	.	ID=gene:Ss_argnt_8;Name=Ss_argnt_8;OtherName=SSTP_0000020800_modified;biotype=protein_coding
+SSTP_scaffold0000008	JonathanStoltzfus	gene	923	1656	.	+	.	ID=gene:Ss_str_6_sic;Name=Ss_str_6_sic;OtherName=SSTP_0001040050_modified;biotype=protein_coding
+SSTP_scaffold0000009	JonathanStoltzfus	gene	305982	306592	.	-	.	ID=gene:SSTP_0001268210;Name=SSTP_0001268210;OtherName=SSTP_0001268200_split;biotype=protein_coding
+SSTP_scaffold0000009	JonathanStoltzfus	gene	307424	307959	.	-	.	ID=gene:SSTP_0001268220;Name=SSTP_0001268220;OtherName=SSTP_0001268200_split;biotype=protein_coding
+SSTP_scaffold0000010	JonathanStoltzfus	gene	171245	173792	.	-	.	ID=gene:Ss_tax_2;Name=Ss_tax_2;OtherName=SSTP_0000626500_split;biotype=protein_coding
+SSTP_scaffold0000010	JonathanStoltzfus	gene	174394	176091	.	-	.	ID=gene:SSTP_000626501;Name=SSTP_000626501;OtherName=SSTP_0000626500_split;biotype=protein_coding
+SSTP_scaffold0000012	JonathanStoltzfus	gene	31586	33375	.	+	.	ID=gene:Ss_usp_4;Name=Ss_usp_4;OtherName=SSTP_0001272900_split;biotype=protein_coding
+SSTP_scaffold0000012	JonathanStoltzfus	gene	35417	37475	.	+	.	ID=gene:Ss_acs_22;Name=Ss_acs_22;OtherName=SSTP_0001272900_split;biotype=protein_coding
+SSTP_scaffold0000012	JonathanStoltzfus	gene	132284	135832	.	+	.	ID=gene:Ss_gcy_11;Name=Ss_gcy_11;OtherName=SSTP_0001276100_modified;biotype=protein_coding;description=Guanylate cyclase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0ETI5
+SSTP_scaffold0000014	JonathanStoltzfus	gene	71402	73238	.	+	.	ID=gene:Ss_egl_30;Name=Ss_egl_30;OtherName=SSTP_0000691400_modified;biotype=protein_coding
+SSTP_contig0000022	JonathanStoltzfus	gene	115133	116851	.	+	.	ID=gene:Ss_doxa_1;Name=Ss_doxa_1;OtherName=SSTP_0001215200_split;biotype=protein_coding;description=dual oxidase maturation factor
+SSTP_contig0000022	JonathanStoltzfus	gene	118325	123189	.	+	.	ID=gene:Ss_let_23;Name=Ss_let_23;OtherName=SSTP_0001215200_split;biotype=protein_coding
+SSTP_contig0000022	JonathanStoltzfus	gene	197606	199987	.	+	.	ID=gene:Ss_cul_2;Name=Ss_cul_2;OtherName=SSTP_0001217600_modified;biotype=protein_coding
+SSTP_contig0000022	JonathanStoltzfus	gene	238730	239756	.	+	.	ID=gene:Ss_sra_8;Name=Ss_sra_8;OtherName=SSTP_0001219200_modified;biotype=protein_coding
+SSTP_contig0000024	JonathanStoltzfus	gene	17233	18328	.	+	.	ID=gene:Ss_str_7;Name=Ss_str_7;OtherName=SSTP_0000934300_modified;biotype=protein_coding
+SSTP_contig0000024	JonathanStoltzfus	gene	116258	118229	.	+	.	ID=gene:Ss_gcy_6;Name=Ss_gcy_6;OtherName=SSTP_0000937800_modified;biotype=protein_coding;description=Guanylate cyclase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0EIS2
+SSTP_scaffold0000015	JonathanStoltzfus	gene	124177	125784	.	+	.	ID=gene:Ss_cyp22a9;Name=Ss_cyp22a9;OtherName=Ss-daf-9;OtherName=SSTP_0001032100_modified;biotype=protein_coding
+SSTP_contig0000029	JonathanStoltzfus	gene	83392	84396	.	+	.	ID=gene:Ss_srg_11;Name=Ss_srg_11;OtherName=SSTP_0000443050_modified;biotype=protein_coding
+SSTP_contig0000030	JonathanStoltzfus	gene	9625	10054	.	-	.	ID=gene:Ss_ilp_1;Name=Ss_ilp_1;OtherName=SSTP_0000271700_modified;biotype=protein_coding
+SSTP_contig0000035	JonathanStoltzfus	gene	120896	123547	.	+	.	ID=gene:Ss_pten_1;Name=Ss_pten_1;OtherName=SSTP_0001138900_modified;biotype=protein_coding
+SSTP_contig0000036	JonathanStoltzfus	gene	45302	47953	.	-	.	ID=gene:Ss_tsn_1;Name=Ss_tsn_1;OtherName=SSTP_0000862900_modified;biotype=protein_coding;description=Staphylococcal nuclease domain-containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0EGL8
+SSTP_contig0000038	JonathanStoltzfus	gene	94262	100019	.	+	.	ID=gene:Ss_vwfa_1;Name=Ss_vwfa_1;OtherName=SSTP_0000424900_split;biotype=protein_coding
+SSTP_contig0000038	JonathanStoltzfus	gene	100246	101803	.	+	.	ID=gene:Ss_cyp29a10;Name=Ss_cyp29a10;OtherName=SSTP_0000424900_split;biotype=protein_coding
+SSTP_contig0000038	JonathanStoltzfus	gene	106583	107645	.	-	.	ID=gene:Ss_srg_28;Name=Ss_srg_28;OtherName=SSTP_0000425200_split;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E433
+SSTP_contig0000038	JonathanStoltzfus	gene	108381	109439	.	-	.	ID=gene:Ss_srg_24;Name=Ss_srg_24;OtherName=SSTP_0000425200_split;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E433
+SSTP_contig0000038	JonathanStoltzfus	gene	111483	112537	.	-	.	ID=gene:Ss_srg_52;Name=Ss_srg_52;OtherName=SSTP_0000425200_split;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E433
+SSTP_contig0000038	JonathanStoltzfus	gene	113012	114069	.	-	.	ID=gene:Ss_srg_17;Name=Ss_srg_17;OtherName=SSTP_0000425200_split;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E433
+SSTP_contig0000038	JonathanStoltzfus	gene	116366	117436	.	-	.	ID=gene:Ss_srg_5;Name=Ss_srg_5;OtherName=SSTP_0000425400_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E435
+SSTP_contig0000038	JonathanStoltzfus	gene	121637	122656	.	+	.	ID=gene:Ss_srg_7;Name=Ss_srg_7;OtherName=SSTP_0000425600_modified;biotype=protein_coding
+SSTP_contig0000038	JonathanStoltzfus	gene	126793	127776	.	-	.	ID=gene:Ss_sra_1;Name=Ss_sra_1;OtherName=SSTP_0000425750_modified;biotype=protein_coding
+SSTP_contig0000038	JonathanStoltzfus	gene	165464	166860	.	+	.	ID=gene:Ss_pdp_1;Name=Ss_pdp_1;OtherName=SSTP_0000427400_modified;biotype=protein_coding
+SSTP_contig0000039	JonathanStoltzfus	gene	31850	34722	.	+	.	ID=gene:Ss_argnt_1;Name=Ss_argnt_1;OtherName=SSTP_0000988900_modified;biotype=protein_coding
+SSTP_contig0000039	JonathanStoltzfus	gene	69321	70408	.	+	.	ID=gene:Ss_lip3_10;Name=Ss_lip3_10;OtherName=SSTP_0000990200_modified;biotype=protein_coding
+SSTP_contig0000043	JonathanStoltzfus	gene	7904	11902	.	+	.	ID=gene:Ss_age_1;Name=Ss_age_1;OtherName=SSTP_0000658800_modified;biotype=protein_coding;description=Phosphatidylinositol 3-kinase catalytic subunit;description_source=UniProtKB/TrEMBL;description_source_acc=I1YZP2
+SSTP_scaffold0000017	JonathanStoltzfus	gene	171373	172323	.	-	.	ID=gene:Ss_str_15;Name=Ss_str_15;OtherName=SSTP_0001226500_modified;biotype=protein_coding
+SSTP_contig0000046	JonathanStoltzfus	gene	40204	41341	.	+	.	ID=gene:Ss_srg_14;Name=Ss_srg_14;OtherName=SSTP_0000525400_modified;biotype=protein_coding
+SSTP_contig0000046	JonathanStoltzfus	gene	72201	74074	.	-	.	ID=gene:Ss_pum_3;Name=Ss_pum_3;OtherName=SSTP_0000526900_modified;biotype=protein_coding
+SSTP_contig0000050	JonathanStoltzfus	gene	126096	127856	.	-	.	ID=gene:Ss_cyp37b12;Name=Ss_cyp37b12;OtherName=SSTP_0000264600_modified;biotype=protein_coding
+SSTP_scaffold0000018	JonathanStoltzfus	gene	125217	126114	.	+	.	ID=gene:Ss_sra_9;Name=Ss_sra_9;OtherName=SSTP_0000648500_split;biotype=protein_coding
+SSTP_scaffold0000018	JonathanStoltzfus	gene	127039	128097	.	+	.	ID=gene:Ss_sra_6;Name=Ss_sra_6;OtherName=SSTP_0000648500_split;biotype=protein_coding
+SSTP_scaffold0000018	JonathanStoltzfus	gene	131361	132403	.	+	.	ID=gene:Ss_sra_4;Name=Ss_sra_4;OtherName=SSTP_0000648700_modified;biotype=protein_coding
+SSTP_contig0000051	JonathanStoltzfus	gene	49739	50716	.	-	.	ID=gene:Ss_lip3_7;Name=Ss_lip3_7;OtherName=SSTP_0000034000_split;biotype=protein_coding
+SSTP_contig0000051	JonathanStoltzfus	gene	51361	55802	.	-	.	ID=gene:SSTP_0000034010;Name=SSTP_0000034010;OtherName=SSTP_0000034000_split;biotype=protein_coding
+SSTP_scaffold0000019	JonathanStoltzfus	gene	88409	90717	.	+	.	ID=gene:Ss_ech_1;Name=Ss_ech_1;OtherName=SSTP_0000825200_modified;biotype=protein_coding
+SSTP_scaffold0000019	JonathanStoltzfus	gene	101883	102925	.	+	.	ID=gene:Ss_lip3_5;Name=Ss_lip3_5;OtherName=SSTP_0000825700_modified;biotype=protein_coding
+SSTP_scaffold0000020	JonathanStoltzfus	gene	36891	37998	.	-	.	ID=gene:Ss_srg_16;Name=Ss_srg_16;OtherName=SSTP_0001016200_modified;biotype=protein_coding
+SSTP_contig0000066	JonathanStoltzfus	gene	72882	80079	.	-	.	ID=gene:Ss_lin_2;Name=Ss_lin_2;OtherName=SSTP_0000269000_modified;biotype=protein_coding
+SSTP_contig0000075	JonathanStoltzfus	gene	34950	36052	.	-	.	ID=gene:Ss_str_8;Name=Ss_str_8;OtherName=SSTP_0000537400_modified;biotype=protein_coding
+SSTP_scaffold0000024	JonathanStoltzfus	gene	6066	9502	.	+	.	ID=gene:Ss_argnt_5;Name=Ss_argnt_5;OtherName=SSTP_0000345800_modified;biotype=protein_coding
+SSTP_scaffold0000024	JonathanStoltzfus	gene	19164	20239	.	+	.	ID=gene:Ss_srg_37;Name=Ss_srg_37;OtherName=SSTP_0000346000_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0E1U1
+SSTP_contig0000084	JonathanStoltzfus	gene	22135	24074	.	-	.	ID=gene:Ss_tgds_1;Name=Ss_tgds_1;OtherName=SSTP_0000866600_modified;biotype=protein_coding
+SSTP_contig0000232	JonathanStoltzfus	gene	1112	2068	.	+	.	ID=gene:Ss_srg_31;Name=Ss_srg_31;OtherName=SSTP_0001282300_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0ETP7
+SSTP_contig0000456	JonathanStoltzfus	gene	571	1565	.	+	.	ID=gene:Ss_srg_47_Nterm;Name=Ss_srg_47_Nterm;OtherName=SSTP_0001282800_modified;biotype=protein_coding;description=Serpentine receptor class gamma;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0K0ETQ2

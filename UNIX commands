@@ -1,0 +1,17 @@
+
+# Make file with genes annotated with the source of JonathanStoltzfus
+grep -E "JonathanStoltzfus" strongyloides_stercoralis.PRJEB528.WBPS14.annotations_JSadditions20230609.gff3 | grep "gene" | grep -vE "mRNA" > temp.gff3
+
+# Make file with genes that are labeled "modified" or "split"
+grep -E "JonathanStoltzfus" strongyloides_stercoralis.PRJEB528.WBPS14.annotations_JSadditions20230609.gff3 | grep "gene" | grep -vE "mRNA" | grep -E "_modified|_split" > JSadditions_modified.gff3
+
+
+# Make file with genes that are not labeled "modified" or "split"
+grep -E "JonathanStoltzfus" strongyloides_stercoralis.PRJEB528.WBPS14.annotations_JSadditions20230609.gff3 | grep "gene" | grep -vE "mRNA" | grep -vE "_modified|_split" > JSadditions_unmodified.gff3
+
+
+# Count number of lines with modified genes (125)
+grep -E "JonathanStoltzfus" strongyloides_stercoralis.PRJEB528.WBPS14.annotations_JSadditions20230609.gff3 | grep "gene" | grep -vE "mRNA" | grep -Ec "_modified|_split"
+
+# Count number of lines with examined but unmodified genes (280)
+grep -E "JonathanStoltzfus" strongyloides_stercoralis.PRJEB528.WBPS14.annotations_JSadditions20230609.gff3 | grep "gene" | grep -vE "mRNA" | grep -vEc "_modified|_split"
